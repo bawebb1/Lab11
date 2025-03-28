@@ -1,16 +1,11 @@
-import pandas as pd
-import numpy as np
-import tensorflow as tf
-from tensorflow import keras
-from tensorflow.keras.models import Sequential, load_model
-from tensorflow.keras.layers import Dense, Dropout
-from tensorflow.keras.regularizers import l2
-from tensorflow.keras.callbacks import EarlyStopping
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.compose import ColumnTransformer
-import pickle
-import streamlit as st
+streamlit
+numpy
+pandas
+scikit-learn
+pickle-mixin
+tensorflow
+matplotlib 
+seaborn
 
 # Load dataset
 df = pd.read_csv("lab_11_bridge_data.csv")
