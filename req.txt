@@ -1,9 +1,8 @@
-  streamlit
-  numpy
-  pandas
-  scikit-learn
-  pickle-mixin
-  tensorflow
-  matplotlib 
-  seaborn
-  Streamlit
+streamlit
+numpy
+pandas
+scikit-learn
+pickle-mixin
+tensorflow
+matplotlib
+seaborn
