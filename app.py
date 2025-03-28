@@ -1,3 +1,4 @@
+import streamlit as st
 # Streamlit App
 def load_preprocessor():
     with open("preprocessor.pkl", "rb") as f:
